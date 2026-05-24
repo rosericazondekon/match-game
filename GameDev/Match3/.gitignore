@@ -11,3 +11,4 @@ match
 
 # Debug symbols (macOS)
 *.dSYM/
+match.dSYM/
