@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# VS Code workspace settings
+.vscode/
+
+# Build outputs
+match
+*.out
+*.o
+
+# Debug symbols (macOS)
+*.dSYM/
